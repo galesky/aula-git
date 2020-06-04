@@ -1,2 +1,5 @@
 # Lista de Alunos de Engenharia de Software FAG
 - Leonardo Galesky
+- João Exemplo
+- Gabriel Exemplo
+- Maria Exemplo
