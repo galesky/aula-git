@@ -1,0 +1,1 @@
+// 1. Imprimir no console os 10 primeiros numeros inteiros positivos
