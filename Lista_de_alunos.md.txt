@@ -2,3 +2,4 @@
 - Leonardo Galesky
 - João Exemplo
 - Gabriel Exemplo
+- Maria Exemplo
